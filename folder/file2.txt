@@ -1,0 +1,8 @@
+@CLASS_NAMES = ("one",
+    "two",
+    "three",);
+@CLASS_LIST_NAMES = ("ONE.A1",
+    "ONE.A2",
+    "ONE.A3",
+    "TWO.D1",
+    "TWO.D2");

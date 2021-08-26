@@ -1,0 +1,1 @@
+find -name "file*" | xargs -I {} date -r {} "+%m-%d-%Y %H:%M"  grep "3800069" file*

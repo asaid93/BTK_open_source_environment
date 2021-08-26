@@ -1,0 +1,11 @@
+2021-07-20 00:00:00,136 DEBUG [org.mobicents.ussdgateway.slee.cdr.plain.CDRGeneratorSbb] (SLEE-EventRouterExecutor-50-thread-1) :15:0:4:573103154359::7:0:4:573103800069:Elige el Adelanto de Saldo o Paquete que deseas:
+
+1.Saldo
+2.Paq Datos
+3.Paq Facebook
+4.Paq Minutos
+Mas :1:1:573103154359:1:6:732101609331754:1:1:573218067417:::::FAILED_DIALOG_USER_ABORT:PUSH:2021-07-20 00:00:00.136:397050:4278518086:43063:1,0,4:97493489-a041-44f0-8fc4-fe890b675697
+2021-07-20 00:00:00,322 DEBUG [org.mobicents.ussdgateway.slee.cdr.plain.CDRGeneratorSbb] (SLEE-EventRouterExecutor-9-thread-1) :15:0:4:573103154359::7:0:4:573103600003:Elige el Adelanto de Saldo o Paquete que deseas:
+
+1.Saldo
+2.Paq Datos

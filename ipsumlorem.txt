@@ -1,0 +1,4 @@
+spawn ssh -t ali@localhost sudo cat /tmp/deneme.txt
+ali@localhost's password: 
+
+^C

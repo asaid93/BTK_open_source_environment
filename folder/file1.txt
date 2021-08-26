@@ -1,0 +1,6 @@
+    // Class of "A2" of type "ONE".
+    // Class of "A3" of type "ONE".
+    // Class of "D1" of type "TWO".
+    // Class of "D2" of type "TWO".
+    // Class of "D3" of type "FOUR".
+    // Class of "D6" of type "FIVE."

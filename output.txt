@@ -1,0 +1,4 @@
+Static hostname: mshost25 
+ Operating System: Red Hat Enterprise Linux Server 7.9 (Maipo)
+ Kernel: Linux 3.10.0-1160.31.1.el7.x86_64
+ system boot  2021-06-24 11:42
