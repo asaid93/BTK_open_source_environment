@@ -1,0 +1,8 @@
+bucket-name_1/path_1/file1.ext
+bucket-name_2/path_2/file2.ext
+bucket-name_3/path_3/file3.ext
+bucket-name_4/path_4/file4.ext
+bucket-name_5/path_5/file5.ext
+bucket-name_6/path_6/path_9/file1.ext
+bucket-name_7/path_7/file6.ext
+bucket-name_8/path_8/file7.ext

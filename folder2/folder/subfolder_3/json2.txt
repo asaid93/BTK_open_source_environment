@@ -1,0 +1,10 @@
+{
+    "name": "John",
+    "emp_id": 1,
+    "age": 30,
+    "balance_amount_1": "-10000.80",
+    "balance_amount_2": "0",
+    "salary_amount": "20000",
+    "Total" : "9999.2"
+}
+

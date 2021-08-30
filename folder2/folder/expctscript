@@ -1,0 +1,5 @@
+#!/usr/bin/expect -f
+spawn bash -c "yum install perl"
+expect "Is this ok"
+send "N\r"
+interact
